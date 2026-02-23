@@ -1,147 +1,212 @@
-📈 Semana 3 – Regresión
+# 📘 Diplomado en Machine Learning y Deep Learning
 
-Modelos:
+---
 
-Regresión Lineal Simple
+## 🧹 Semana 2 – Preprocesamiento de Datos
 
-Regresión Lineal Múltiple
+### 🔹 Conceptos
+- Limpieza de datos (valores nulos, outliers)
+- Normalización y estandarización
+- Codificación de variables categóricas (One-Hot Encoding, Label Encoding)
+- Feature Scaling
+- División Train / Test
 
-Regularización (Ridge, Lasso)
+### 🔹 Importancia
+Un buen preprocesamiento puede impactar más en el rendimiento que el modelo en sí.
 
-Métricas:
+---
 
-MAE
+## 📈 Semana 3 – Regresión
 
-MSE
+### 🔹 Modelos
+- Regresión Lineal Simple
+- Regresión Lineal Múltiple
+- Regularización (Ridge, Lasso)
 
-RMSE
+### 🔹 Métricas
+- MAE (Error Absoluto Medio)
+- MSE (Error Cuadrático Medio)
+- RMSE (Raíz del Error Cuadrático Medio)
+- R² (Coeficiente de determinación)
 
-R²
+### 🔹 Conceptos
+- Supuestos del modelo lineal
+- Multicolinealidad
+- Overfitting
 
-Conceptos:
+---
 
-Supuestos del modelo lineal
+## 🎯 Semana 4 – Clasificación
 
-Multicolinealidad
+### 🔹 Modelos
+- KNN
+- Naive Bayes
+- Regresión Logística
 
-Overfitting
+### 🔹 Métricas
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Matriz de Confusión
+- ROC-AUC
 
-🎯 Semana 4 – Clasificación
+---
 
-Modelos:
+## 🧠 Semana 5 – Selección de Modelos
 
-KNN
+### 🔹 Conceptos
+- Bias vs Variance
+- Overfitting vs Underfitting
+- Validación Cruzada (K-Fold)
+- Grid Search
+- Train / Validation / Test Split
 
-Naive Bayes
+---
 
-Regresión Logística
+## 🌳 Semana 6 – Árboles de Decisión
 
-Métricas:
+### 🔹 Conceptos
+- Entropía
+- Gini
+- Information Gain
+- Pruning (Poda)
 
-Accuracy
+### 🔹 Ventajas
+- Alta interpretabilidad
+- No requiere normalización
 
-Precision
+### 🔹 Riesgos
+- Sensible al ruido
+- Tendencia al overfitting
 
-Recall
+---
 
-F1 Score
+## 📉 Semana 7 – Reducción de Dimensionalidad
 
-Matriz de Confusión
+### 🔹 Métodos
+- PCA (Principal Component Analysis)
+- Variance Threshold
+- Eliminación por correlación
 
-🧠 Semana 5 – Selección de Modelos
+### 🔹 Objetivo
+- Reducir multicolinealidad
+- Mejorar eficiencia computacional
+- Mitigar la "curse of dimensionality"
 
-Bias vs Variance
+---
 
-Cross Validation
+## 📊 Semana 8 – Presentación Parcial
 
-Grid Search
+### 🔹 Incluyó
+- Análisis Exploratorio de Datos (EDA)
+- Selección de variables
+- Justificación del modelo
+- Interpretación de métricas
 
-Overfitting vs Underfitting
+---
 
-🌳 Semana 6 – Árboles de Decisión
+## ⚙️ Semana 9 – Máquinas de Vectores de Soporte (SVM)
 
-Entropía
+### 🔹 Conceptos
+- Hiperplano óptimo
+- Margen máximo
+- Kernel Trick
 
-Gini
+### 🔹 Tipos de Kernel
+- Lineal
+- Polinomial
+- RBF
 
-Information Gain
+---
 
-Pruning
+## 🌲 Semana 10 – Modelos de Ensamble
 
-📉 Semana 7 – Reducción de Dimensionalidad
+### 🔹 Modelos
+- Random Forest
+- Gradient Boosting
+- XGBoost
 
-PCA
+### 🔹 Idea Clave
+Combinar múltiples modelos débiles para construir un modelo más robusto y preciso.
 
-Selección de características
+---
 
-Eliminación por correlación
+## 📍 Semana 11 – Clustering
 
-📊 Semana 8 – Presentación Parcial
+### 🔹 Métodos
+- K-Means
+- Clustering Jerárquico
+- DBSCAN
 
-EDA
+### 🔹 Evaluación
+- Silhouette Score
+- Método del Codo (Elbow Method)
 
-Selección de modelo
+---
 
-Interpretación de resultados
+## 📈 Semana 12 – Regresión Logística
 
-⚙️ Semana 9 – Máquinas de Vectores de Soporte (SVM)
+### 🔹 Conceptos
+- Función Sigmoide
+- Log-Loss
+- Odds Ratio
 
-Hiperplano óptimo
+### 🔹 Aplicación
+- Clasificación binaria
+- Probabilidad de pertenencia a clase
 
-Kernel Trick
+---
 
-Margen máximo
+## 🧠 Semana 13 – Redes Neuronales
 
-🌲 Semana 10 – Modelos de Ensamble
+### 🔹 Conceptos
+- Perceptrón
+- Funciones de activación (ReLU, Sigmoid, Tanh)
+- Backpropagation
+- Epochs y Batch Size
 
-Random Forest
+### 🔹 Arquitectura básica
+- Capa de entrada
+- Capas ocultas
+- Capa de salida
 
-Gradient Boosting
+---
 
-XGBoost
+## 🖼 Semana 14 – Redes Convolucionales (CNN)
 
-📍 Semana 11 – Clustering
+### 🔹 Conceptos
+- Filtros
+- Convolución
+- Pooling
+- Flatten
+- Capas densas
 
-K-Means
+### 🔹 Aplicación
+- Visión por computadora
+- Clasificación de imágenes
 
-DBSCAN
+---
 
-Jerárquico
+## 🔁 Semana 15 – Transfer Learning
 
-Silhouette Score
+### 🔹 Conceptos
+- Modelos preentrenados
+- Fine-tuning
+- Congelamiento de capas
 
-📈 Semana 12 – Regresión Logística (Profundización)
+### 🔹 Ventaja
+Reduce tiempo de entrenamiento y mejora desempeño cuando se dispone de pocos datos.
 
-Función sigmoide
+---
 
-Log-Loss
+# 🎯 Conclusión
 
-Odds ratio
+Este diplomado reforzó conocimientos en:
 
-🧠 Semana 13 – Redes Neuronales
-
-Perceptrón
-
-Backpropagation
-
-Funciones de activación
-
-Batch size / Epochs
-
-🖼 Semana 14 – Redes Convolucionales (CNN)
-
-Convolución
-
-Filtros
-
-Pooling
-
-Arquitecturas básicas
-
-🔁 Semana 15 – Transfer Learning
-
-Fine-tuning
-
-Modelos preentrenados
-
-Congelamiento de capas
+- Modelos supervisados y no supervisados
+- Técnicas de ensamble
+- Deep Learning
+- Computer Vision
+- Evaluación y selección de modelos
+- Pipeline completo de Machine Learning
