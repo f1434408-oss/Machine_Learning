@@ -1,0 +1,147 @@
+📈 Semana 3 – Regresión
+
+Modelos:
+
+Regresión Lineal Simple
+
+Regresión Lineal Múltiple
+
+Regularización (Ridge, Lasso)
+
+Métricas:
+
+MAE
+
+MSE
+
+RMSE
+
+R²
+
+Conceptos:
+
+Supuestos del modelo lineal
+
+Multicolinealidad
+
+Overfitting
+
+🎯 Semana 4 – Clasificación
+
+Modelos:
+
+KNN
+
+Naive Bayes
+
+Regresión Logística
+
+Métricas:
+
+Accuracy
+
+Precision
+
+Recall
+
+F1 Score
+
+Matriz de Confusión
+
+🧠 Semana 5 – Selección de Modelos
+
+Bias vs Variance
+
+Cross Validation
+
+Grid Search
+
+Overfitting vs Underfitting
+
+🌳 Semana 6 – Árboles de Decisión
+
+Entropía
+
+Gini
+
+Information Gain
+
+Pruning
+
+📉 Semana 7 – Reducción de Dimensionalidad
+
+PCA
+
+Selección de características
+
+Eliminación por correlación
+
+📊 Semana 8 – Presentación Parcial
+
+EDA
+
+Selección de modelo
+
+Interpretación de resultados
+
+⚙️ Semana 9 – Máquinas de Vectores de Soporte (SVM)
+
+Hiperplano óptimo
+
+Kernel Trick
+
+Margen máximo
+
+🌲 Semana 10 – Modelos de Ensamble
+
+Random Forest
+
+Gradient Boosting
+
+XGBoost
+
+📍 Semana 11 – Clustering
+
+K-Means
+
+DBSCAN
+
+Jerárquico
+
+Silhouette Score
+
+📈 Semana 12 – Regresión Logística (Profundización)
+
+Función sigmoide
+
+Log-Loss
+
+Odds ratio
+
+🧠 Semana 13 – Redes Neuronales
+
+Perceptrón
+
+Backpropagation
+
+Funciones de activación
+
+Batch size / Epochs
+
+🖼 Semana 14 – Redes Convolucionales (CNN)
+
+Convolución
+
+Filtros
+
+Pooling
+
+Arquitecturas básicas
+
+🔁 Semana 15 – Transfer Learning
+
+Fine-tuning
+
+Modelos preentrenados
+
+Congelamiento de capas
