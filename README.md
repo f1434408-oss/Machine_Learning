@@ -210,18 +210,19 @@ Combinar múltiples modelos débiles para construir un modelo más robusto y pre
 
 ### 🔹 Conceptos
 - Función Sigmoide
-- Log-Loss
+- Log-Loss (Binary Cross-Entropy)
 - Odds Ratio
 
 ### 🔹 Aplicación
 - Clasificación binaria
 - Probabilidad de pertenencia a clase
+- Implementación con TensorFlow
 
 ### 🔹 Aplicaciones en Negocio
 - Cálculo de probabilidad de impago.
 - Modelos de propensión de compra.
 - Evaluación de riesgo en seguros.
-- Scoring de leads en marketing digital.
+- Scoring de leads en marketing digital
 
 ---
 
