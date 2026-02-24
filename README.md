@@ -268,21 +268,23 @@ Combinar múltiples modelos débiles para construir un modelo más robusto y pre
 
 ---
 
-## 🔁 Semana 15 – Transfer Learning
+## 🔁 Semana 15 – Transfer Learning y LLM
 
 ### 🔹 Conceptos
 - Modelos preentrenados
 - Fine-tuning
 - Congelamiento de capas
+- LLM (Large Language Models) y prompting
 
 ### 🔹 Ventaja
-Reduce tiempo de entrenamiento y mejora desempeño cuando se dispone de pocos datos.
+Reduce tiempo de entrenamiento y mejora desempeño cuando se dispone de pocos datos. Permite reutilizar conocimiento a gran escala
 
 ### 🔹 Aplicaciones en Negocio
 - Implementación rápida de soluciones de visión artificial.
 - Adaptación de modelos NLP a dominios específicos (legal, financiero).
 - Reducción de costos en proyectos de IA.
 - Desarrollo de soluciones con pocos datos propios.
+- Chatbots, asistentes y copilotos empresariales basados en LLM
 
 ---
 
